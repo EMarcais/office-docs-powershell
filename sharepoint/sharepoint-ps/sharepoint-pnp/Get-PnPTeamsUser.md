@@ -52,7 +52,7 @@ Returns all members from the specified team.
 Get-PnPTeamsUser -Team MyTeam -Role Guest
 ```
 
-Returns all guestss from the specified team.
+Returns all guests from the specified team.
 
 ## PARAMETERS
 
