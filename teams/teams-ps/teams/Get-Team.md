@@ -61,6 +61,12 @@ PS> Get-Team -DisplayName "Sales and Marketing"
 ```
 Returns the team that matches the specified DisplayName
 
+### Example 5
+```
+PS> (Get-Team -DisplayName "Sales and Marketing").GroupId
+```
+Returns the team's Group Id 
+
 ## PARAMETERS
 
 ### -User
